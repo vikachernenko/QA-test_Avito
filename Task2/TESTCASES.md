@@ -12,7 +12,7 @@
 
 ```plaintext
 {
-  "sellerID": 12345,
+  "sellerID": 192348,
   "name": "Burger",
   "price": 300,
   "statistics": {
@@ -31,7 +31,7 @@
 
 ```plaintext
 {
-    "status": "Сохранили объявление - e0d5f35a-ae72-4411-bfe0-5eae65ce35a2"
+    "status": "Сохранили объявление - ecdb317-884a-4683-90f3-f7b0d039df25"
 }
 ```
 
