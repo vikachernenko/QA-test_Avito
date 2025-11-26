@@ -52,5 +52,4 @@
 - Linux/MacOS: `source venv/bin/activate`
 
 5. Установите зависимости: `pip install -r requirements.txt`
-
-6.Запустите автотесты: `pytest test_api.py -v`
+6. Запустите автотесты: `pytest test_api.py -v`
